@@ -1,0 +1,6451 @@
+{
+    "pistol (1).jpg12810": {
+        "filename": "pistol (1).jpg",
+        "size": 12810,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        8,
+                        39,
+                        75,
+                        379,
+                        397,
+                        403,
+                        384,
+                        353,
+                        251,
+                        231,
+                        171,
+                        138,
+                        113,
+                        11,
+                        14,
+                        43,
+                        6
+                    ],
+                    "all_points_y": [
+                        140,
+                        62,
+                        42,
+                        38,
+                        54,
+                        84,
+                        139,
+                        158,
+                        161,
+                        222,
+                        236,
+                        240,
+                        372,
+                        374,
+                        308,
+                        178,
+                        151
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (2).jpg18345": {
+        "filename": "pistol (2).jpg",
+        "size": 18345,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        27,
+                        266,
+                        311,
+                        336,
+                        307,
+                        349,
+                        261,
+                        221,
+                        191,
+                        147,
+                        137,
+                        24,
+                        21
+                    ],
+                    "all_points_y": [
+                        52,
+                        29,
+                        44,
+                        113,
+                        164,
+                        332,
+                        334,
+                        210,
+                        220,
+                        196,
+                        149,
+                        147,
+                        70
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (3).jpg19259": {
+        "filename": "pistol (3).jpg",
+        "size": 19259,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        15,
+                        346,
+                        386,
+                        399,
+                        363,
+                        387,
+                        371,
+                        290,
+                        270,
+                        189,
+                        185,
+                        18,
+                        11
+                    ],
+                    "all_points_y": [
+                        23,
+                        16,
+                        43,
+                        135,
+                        174,
+                        322,
+                        389,
+                        398,
+                        254,
+                        244,
+                        158,
+                        159,
+                        49
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (4).jpg19591": {
+        "filename": "pistol (4).jpg",
+        "size": 19591,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        24,
+                        305,
+                        333,
+                        368,
+                        398,
+                        400,
+                        367,
+                        412,
+                        401,
+                        301,
+                        264,
+                        173,
+                        166,
+                        9,
+                        9
+                    ],
+                    "all_points_y": [
+                        38,
+                        34,
+                        50,
+                        82,
+                        144,
+                        170,
+                        198,
+                        372,
+                        380,
+                        400,
+                        221,
+                        218,
+                        162,
+                        158,
+                        50
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (5).jpg15913": {
+        "filename": "pistol (5).jpg",
+        "size": 15913,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        93,
+                        333,
+                        363,
+                        309,
+                        328,
+                        295,
+                        205,
+                        226,
+                        151,
+                        155,
+                        55,
+                        71
+                    ],
+                    "all_points_y": [
+                        21,
+                        80,
+                        180,
+                        222,
+                        352,
+                        388,
+                        359,
+                        216,
+                        193,
+                        136,
+                        96,
+                        28
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (6).jpg14002": {
+        "filename": "pistol (6).jpg",
+        "size": 14002,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        55,
+                        403,
+                        415,
+                        409,
+                        237,
+                        233,
+                        2,
+                        6
+                    ],
+                    "all_points_y": [
+                        68,
+                        72,
+                        92,
+                        146,
+                        155,
+                        188,
+                        134,
+                        112
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (7).jpg22100": {
+        "filename": "pistol (7).jpg",
+        "size": 22100,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        99,
+                        161,
+                        322,
+                        293,
+                        237,
+                        218,
+                        153,
+                        89,
+                        34,
+                        113
+                    ],
+                    "all_points_y": [
+                        42,
+                        38,
+                        208,
+                        270,
+                        225,
+                        270,
+                        214,
+                        271,
+                        212,
+                        124
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (8).jpg22557": {
+        "filename": "pistol (8).jpg",
+        "size": 22557,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        142,
+                        281,
+                        285,
+                        253,
+                        265,
+                        223,
+                        217,
+                        189,
+                        191,
+                        125,
+                        130
+                    ],
+                    "all_points_y": [
+                        110,
+                        113,
+                        181,
+                        178,
+                        293,
+                        294,
+                        208,
+                        210,
+                        183,
+                        187,
+                        128
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (9).jpg9973": {
+        "filename": "pistol (9).jpg",
+        "size": 9973,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        121,
+                        324,
+                        337,
+                        329,
+                        367,
+                        311,
+                        275,
+                        242,
+                        233,
+                        125
+                    ],
+                    "all_points_y": [
+                        164,
+                        122,
+                        148,
+                        162,
+                        310,
+                        333,
+                        241,
+                        252,
+                        209,
+                        227
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (10).jpg22585": {
+        "filename": "pistol (10).jpg",
+        "size": 22585,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        59,
+                        351,
+                        343,
+                        259,
+                        236,
+                        155,
+                        140,
+                        45,
+                        57,
+                        33
+                    ],
+                    "all_points_y": [
+                        51,
+                        59,
+                        166,
+                        164,
+                        246,
+                        239,
+                        390,
+                        378,
+                        148,
+                        142
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (11).jpg14971": {
+        "filename": "pistol (11).jpg",
+        "size": 14971,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        50,
+                        65,
+                        116,
+                        274,
+                        303,
+                        193,
+                        213,
+                        165,
+                        183,
+                        99,
+                        48
+                    ],
+                    "all_points_y": [
+                        190,
+                        168,
+                        151,
+                        128,
+                        192,
+                        230,
+                        286,
+                        300,
+                        384,
+                        401,
+                        193
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (12).jpg9567": {
+        "filename": "pistol (12).jpg",
+        "size": 9567,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        169,
+                        312,
+                        316,
+                        264,
+                        267,
+                        218,
+                        150,
+                        157
+                    ],
+                    "all_points_y": [
+                        108,
+                        119,
+                        182,
+                        186,
+                        222,
+                        225,
+                        176,
+                        130
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (13).jpg25071": {
+        "filename": "pistol (13).jpg",
+        "size": 25071,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        266,
+                        374,
+                        375,
+                        335,
+                        335,
+                        310,
+                        255
+                    ],
+                    "all_points_y": [
+                        142,
+                        162,
+                        210,
+                        203,
+                        228,
+                        228,
+                        178
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (14).jpg15936": {
+        "filename": "pistol (14).jpg",
+        "size": 15936,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        40,
+                        415,
+                        413,
+                        242,
+                        229,
+                        147,
+                        107,
+                        4,
+                        1,
+                        47,
+                        10
+                    ],
+                    "all_points_y": [
+                        8,
+                        11,
+                        66,
+                        71,
+                        110,
+                        111,
+                        220,
+                        197,
+                        180,
+                        89,
+                        64
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        107,
+                        151,
+                        239,
+                        240,
+                        339,
+                        342,
+                        29,
+                        29,
+                        49,
+                        2,
+                        1
+                    ],
+                    "all_points_y": [
+                        415,
+                        343,
+                        341,
+                        299,
+                        290,
+                        236,
+                        232,
+                        290,
+                        300,
+                        366,
+                        414
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (15).jpg19883": {
+        "filename": "pistol (15).jpg",
+        "size": 19883,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        27,
+                        69,
+                        385,
+                        397,
+                        400,
+                        361,
+                        387,
+                        254,
+                        225,
+                        107,
+                        109,
+                        13,
+                        15
+                    ],
+                    "all_points_y": [
+                        22,
+                        7,
+                        94,
+                        114,
+                        190,
+                        207,
+                        404,
+                        411,
+                        278,
+                        262,
+                        162,
+                        132,
+                        27
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (16).jpg12509": {
+        "filename": "pistol (16).jpg",
+        "size": 12509,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        55,
+                        76,
+                        270,
+                        311,
+                        319,
+                        297,
+                        314,
+                        239,
+                        214,
+                        159,
+                        153,
+                        51
+                    ],
+                    "all_points_y": [
+                        96,
+                        86,
+                        96,
+                        120,
+                        185,
+                        194,
+                        356,
+                        355,
+                        241,
+                        228,
+                        175,
+                        160
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (17).jpg13267": {
+        "filename": "pistol (17).jpg",
+        "size": 13267,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        129,
+                        229,
+                        301,
+                        311,
+                        338,
+                        246,
+                        209,
+                        176,
+                        176,
+                        132
+                    ],
+                    "all_points_y": [
+                        177,
+                        66,
+                        86,
+                        136,
+                        382,
+                        384,
+                        265,
+                        254,
+                        217,
+                        230
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (18).jpg10311": {
+        "filename": "pistol (18).jpg",
+        "size": 10311,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        103,
+                        147,
+                        377,
+                        375,
+                        291,
+                        282,
+                        206,
+                        187,
+                        127
+                    ],
+                    "all_points_y": [
+                        108,
+                        44,
+                        51,
+                        138,
+                        146,
+                        199,
+                        212,
+                        331,
+                        329
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (19).jpg14735": {
+        "filename": "pistol (19).jpg",
+        "size": 14735,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        61,
+                        329,
+                        349,
+                        344,
+                        335,
+                        243,
+                        245,
+                        142,
+                        124,
+                        56,
+                        55
+                    ],
+                    "all_points_y": [
+                        64,
+                        62,
+                        113,
+                        166,
+                        382,
+                        392,
+                        247,
+                        244,
+                        178,
+                        172,
+                        163
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (20).jpg16303": {
+        "filename": "pistol (20).jpg",
+        "size": 16303,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        23,
+                        329,
+                        376,
+                        237,
+                        169,
+                        157,
+                        13,
+                        7
+                    ],
+                    "all_points_y": [
+                        18,
+                        12,
+                        96,
+                        211,
+                        179,
+                        127,
+                        115,
+                        44
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (21).jpg14760": {
+        "filename": "pistol (21).jpg",
+        "size": 14760,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        212,
+                        289,
+                        353,
+                        290,
+                        251,
+                        201,
+                        185,
+                        87,
+                        75
+                    ],
+                    "all_points_y": [
+                        134,
+                        146,
+                        380,
+                        393,
+                        298,
+                        305,
+                        249,
+                        247,
+                        194
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (22).jpg13563": {
+        "filename": "pistol (22).jpg",
+        "size": 13563,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        9,
+                        347,
+                        381,
+                        386,
+                        271,
+                        199,
+                        122,
+                        119,
+                        13,
+                        1
+                    ],
+                    "all_points_y": [
+                        104,
+                        74,
+                        140,
+                        312,
+                        316,
+                        218,
+                        211,
+                        176,
+                        173,
+                        114
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (23).jpg19439": {
+        "filename": "pistol (23).jpg",
+        "size": 19439,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        146,
+                        245,
+                        164,
+                        125,
+                        156,
+                        124,
+                        137,
+                        117
+                    ],
+                    "all_points_y": [
+                        29,
+                        176,
+                        266,
+                        229,
+                        168,
+                        122,
+                        95,
+                        54
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (24).jpg22319": {
+        "filename": "pistol (24).jpg",
+        "size": 22319,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        318,
+                        334,
+                        325,
+                        341,
+                        338,
+                        367,
+                        357,
+                        282
+                    ],
+                    "all_points_y": [
+                        93,
+                        104,
+                        152,
+                        156,
+                        201,
+                        220,
+                        266,
+                        226
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (25).jpg12715": {
+        "filename": "pistol (25).jpg",
+        "size": 12715,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        303,
+                        415,
+                        410,
+                        385,
+                        384,
+                        340,
+                        297
+                    ],
+                    "all_points_y": [
+                        102,
+                        114,
+                        162,
+                        162,
+                        188,
+                        184,
+                        123
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (26).jpg24290": {
+        "filename": "pistol (26).jpg",
+        "size": 24290,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        202,
+                        299,
+                        306,
+                        288,
+                        290,
+                        201
+                    ],
+                    "all_points_y": [
+                        184,
+                        128,
+                        150,
+                        160,
+                        164,
+                        216
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (27).jpg22883": {
+        "filename": "pistol (27).jpg",
+        "size": 22883,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        57,
+                        27,
+                        68,
+                        53,
+                        62,
+                        49,
+                        65,
+                        136,
+                        144
+                    ],
+                    "all_points_y": [
+                        126,
+                        140,
+                        179,
+                        190,
+                        198,
+                        217,
+                        230,
+                        242,
+                        195
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (28).jpg17420": {
+        "filename": "pistol (28).jpg",
+        "size": 17420,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        61,
+                        337,
+                        391,
+                        357,
+                        215,
+                        141,
+                        139,
+                        50
+                    ],
+                    "all_points_y": [
+                        90,
+                        95,
+                        170,
+                        217,
+                        292,
+                        246,
+                        185,
+                        165
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (29).jpg15069": {
+        "filename": "pistol (29).jpg",
+        "size": 15069,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        63,
+                        121,
+                        127,
+                        109,
+                        99,
+                        88,
+                        82,
+                        60
+                    ],
+                    "all_points_y": [
+                        119,
+                        118,
+                        190,
+                        190,
+                        162,
+                        160,
+                        145,
+                        145
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (30).jpg16590": {
+        "filename": "pistol (30).jpg",
+        "size": 16590,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        67,
+                        97,
+                        61,
+                        42,
+                        59,
+                        53,
+                        63,
+                        51
+                    ],
+                    "all_points_y": [
+                        132,
+                        214,
+                        248,
+                        227,
+                        200,
+                        187,
+                        174,
+                        142
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (31).jpg16221": {
+        "filename": "pistol (31).jpg",
+        "size": 16221,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        55,
+                        312,
+                        357,
+                        351,
+                        265,
+                        221,
+                        175,
+                        169,
+                        51
+                    ],
+                    "all_points_y": [
+                        92,
+                        98,
+                        169,
+                        341,
+                        340,
+                        222,
+                        216,
+                        169,
+                        166
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (32).jpg15886": {
+        "filename": "pistol (32).jpg",
+        "size": 15886,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        42,
+                        139,
+                        166,
+                        154,
+                        208,
+                        179,
+                        135,
+                        110,
+                        87,
+                        56
+                    ],
+                    "all_points_y": [
+                        176,
+                        43,
+                        72,
+                        98,
+                        152,
+                        212,
+                        180,
+                        214,
+                        189,
+                        230
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (33).jpg26213": {
+        "filename": "pistol (33).jpg",
+        "size": 26213,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        19,
+                        51,
+                        375,
+                        393,
+                        389,
+                        350,
+                        403,
+                        383,
+                        286,
+                        276,
+                        239,
+                        205,
+                        125,
+                        112,
+                        11
+                    ],
+                    "all_points_y": [
+                        29,
+                        15,
+                        14,
+                        51,
+                        137,
+                        152,
+                        321,
+                        386,
+                        399,
+                        381,
+                        218,
+                        232,
+                        203,
+                        140,
+                        144
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (34).jpg16616": {
+        "filename": "pistol (34).jpg",
+        "size": 16616,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        17,
+                        45,
+                        381,
+                        387,
+                        393,
+                        355,
+                        395,
+                        387,
+                        271,
+                        243,
+                        121,
+                        111,
+                        11
+                    ],
+                    "all_points_y": [
+                        33,
+                        21,
+                        22,
+                        46,
+                        144,
+                        148,
+                        292,
+                        400,
+                        406,
+                        232,
+                        232,
+                        152,
+                        144
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (35).jpg21082": {
+        "filename": "pistol (35).jpg",
+        "size": 21082,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        25,
+                        48,
+                        343,
+                        358,
+                        353,
+                        319,
+                        352,
+                        245,
+                        226,
+                        115,
+                        93,
+                        22
+                    ],
+                    "all_points_y": [
+                        85,
+                        72,
+                        74,
+                        141,
+                        187,
+                        192,
+                        398,
+                        405,
+                        260,
+                        260,
+                        190,
+                        184
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (36).jpg18154": {
+        "filename": "pistol (36).jpg",
+        "size": 18154,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        8,
+                        39,
+                        385,
+                        411,
+                        415,
+                        369,
+                        407,
+                        293,
+                        261,
+                        239,
+                        130,
+                        117,
+                        9
+                    ],
+                    "all_points_y": [
+                        12,
+                        5,
+                        3,
+                        28,
+                        113,
+                        158,
+                        392,
+                        410,
+                        370,
+                        246,
+                        246,
+                        157,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (37).jpg51637": {
+        "filename": "pistol (37).jpg",
+        "size": 51637,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        51,
+                        91,
+                        84,
+                        119,
+                        119,
+                        162,
+                        149,
+                        10,
+                        11,
+                        33,
+                        41
+                    ],
+                    "all_points_y": [
+                        119,
+                        136,
+                        210,
+                        230,
+                        266,
+                        292,
+                        345,
+                        268,
+                        220,
+                        222,
+                        131
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        93,
+                        128,
+                        137,
+                        189,
+                        211,
+                        172,
+                        195,
+                        175,
+                        195,
+                        164
+                    ],
+                    "all_points_y": [
+                        96,
+                        70,
+                        78,
+                        28,
+                        92,
+                        128,
+                        187,
+                        209,
+                        265,
+                        285
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        231,
+                        197,
+                        245,
+                        277,
+                        273,
+                        342,
+                        331,
+                        285,
+                        268,
+                        245
+                    ],
+                    "all_points_y": [
+                        274,
+                        258,
+                        70,
+                        83,
+                        108,
+                        118,
+                        178,
+                        170,
+                        232,
+                        228
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        253,
+                        237,
+                        347,
+                        365,
+                        355,
+                        408,
+                        368,
+                        333,
+                        295,
+                        279
+                    ],
+                    "all_points_y": [
+                        308,
+                        264,
+                        183,
+                        218,
+                        236,
+                        315,
+                        350,
+                        292,
+                        322,
+                        298
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (38).jpg39871": {
+        "filename": "pistol (38).jpg",
+        "size": 39871,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        12,
+                        12,
+                        264,
+                        304,
+                        409,
+                        379,
+                        56,
+                        47
+                    ],
+                    "all_points_y": [
+                        161,
+                        264,
+                        263,
+                        379,
+                        343,
+                        52,
+                        64,
+                        160
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (39).jpg23660": {
+        "filename": "pistol (39).jpg",
+        "size": 23660,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        75,
+                        48,
+                        81,
+                        23,
+                        10,
+                        127,
+                        176,
+                        261,
+                        285,
+                        379,
+                        407,
+                        81
+                    ],
+                    "all_points_y": [
+                        382,
+                        265,
+                        237,
+                        150,
+                        82,
+                        28,
+                        166,
+                        124,
+                        182,
+                        167,
+                        268,
+                        390
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (40).jpg27373": {
+        "filename": "pistol (40).jpg",
+        "size": 27373,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        16,
+                        318,
+                        323,
+                        341,
+                        356,
+                        356,
+                        328,
+                        401,
+                        364,
+                        280,
+                        241,
+                        187,
+                        22
+                    ],
+                    "all_points_y": [
+                        254,
+                        26,
+                        43,
+                        34,
+                        65,
+                        133,
+                        174,
+                        296,
+                        380,
+                        271,
+                        298,
+                        227,
+                        344
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (41).jpg30851": {
+        "filename": "pistol (41).jpg",
+        "size": 30851,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        45,
+                        255,
+                        289,
+                        300,
+                        320,
+                        308,
+                        411,
+                        368,
+                        265,
+                        218,
+                        185,
+                        70
+                    ],
+                    "all_points_y": [
+                        240,
+                        26,
+                        57,
+                        36,
+                        52,
+                        101,
+                        192,
+                        279,
+                        197,
+                        241,
+                        206,
+                        314
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (42).jpg24527": {
+        "filename": "pistol (42).jpg",
+        "size": 24527,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        50,
+                        226,
+                        251,
+                        298,
+                        281,
+                        369,
+                        328,
+                        279,
+                        210,
+                        161,
+                        156,
+                        57,
+                        46
+                    ],
+                    "all_points_y": [
+                        69,
+                        54,
+                        70,
+                        136,
+                        168,
+                        336,
+                        368,
+                        359,
+                        217,
+                        197,
+                        159,
+                        140,
+                        96
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (43).jpg14840": {
+        "filename": "pistol (43).jpg",
+        "size": 14840,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        17,
+                        360,
+                        348,
+                        391,
+                        343,
+                        409,
+                        377,
+                        286,
+                        244,
+                        173,
+                        163,
+                        6,
+                        10
+                    ],
+                    "all_points_y": [
+                        49,
+                        59,
+                        114,
+                        147,
+                        166,
+                        349,
+                        378,
+                        383,
+                        209,
+                        208,
+                        146,
+                        130,
+                        68
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (44).jpg28055": {
+        "filename": "pistol (44).jpg",
+        "size": 28055,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        64,
+                        135,
+                        399,
+                        412,
+                        403,
+                        320,
+                        250,
+                        206,
+                        127,
+                        45,
+                        0,
+                        1,
+                        79,
+                        62
+                    ],
+                    "all_points_y": [
+                        37,
+                        0,
+                        319,
+                        365,
+                        408,
+                        410,
+                        366,
+                        387,
+                        322,
+                        398,
+                        297,
+                        269,
+                        146,
+                        64
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (45).jpg19669": {
+        "filename": "pistol (45).jpg",
+        "size": 19669,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        83,
+                        267,
+                        374,
+                        359,
+                        251,
+                        269,
+                        193,
+                        203,
+                        61
+                    ],
+                    "all_points_y": [
+                        30,
+                        4,
+                        2,
+                        56,
+                        91,
+                        158,
+                        165,
+                        289,
+                        306
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (46).jpg37951": {
+        "filename": "pistol (46).jpg",
+        "size": 37951,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        4,
+                        27,
+                        159,
+                        171,
+                        264,
+                        319,
+                        411,
+                        411,
+                        335,
+                        340,
+                        383,
+                        352
+                    ],
+                    "all_points_y": [
+                        180,
+                        274,
+                        211,
+                        281,
+                        242,
+                        378,
+                        318,
+                        276,
+                        138,
+                        100,
+                        64,
+                        9
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (47).jpg47525": {
+        "filename": "pistol (47).jpg",
+        "size": 47525,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        83,
+                        222,
+                        271,
+                        286,
+                        381,
+                        413,
+                        300,
+                        323,
+                        273,
+                        3,
+                        27
+                    ],
+                    "all_points_y": [
+                        362,
+                        200,
+                        228,
+                        211,
+                        262,
+                        163,
+                        78,
+                        26,
+                        0,
+                        253,
+                        338
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (48).jpg47281": {
+        "filename": "pistol (48).jpg",
+        "size": 47281,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        13,
+                        137,
+                        192,
+                        185,
+                        287,
+                        255,
+                        176,
+                        137,
+                        97,
+                        55
+                    ],
+                    "all_points_y": [
+                        269,
+                        3,
+                        24,
+                        60,
+                        88,
+                        178,
+                        156,
+                        220,
+                        218,
+                        307
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        92,
+                        313,
+                        346,
+                        328,
+                        397,
+                        332,
+                        281,
+                        225,
+                        183,
+                        111
+                    ],
+                    "all_points_y": [
+                        290,
+                        149,
+                        212,
+                        233,
+                        336,
+                        384,
+                        310,
+                        345,
+                        314,
+                        352
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (49).jpg18344": {
+        "filename": "pistol (49).jpg",
+        "size": 18344,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        20,
+                        148,
+                        195,
+                        195,
+                        160,
+                        149,
+                        144,
+                        78,
+                        72,
+                        90,
+                        85,
+                        16
+                    ],
+                    "all_points_y": [
+                        391,
+                        346,
+                        253,
+                        17,
+                        17,
+                        76,
+                        126,
+                        144,
+                        236,
+                        254,
+                        285,
+                        298
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        393,
+                        395,
+                        319,
+                        337,
+                        325,
+                        265,
+                        253,
+                        218,
+                        221,
+                        263,
+                        342
+                    ],
+                    "all_points_y": [
+                        387,
+                        312,
+                        280,
+                        219,
+                        144,
+                        126,
+                        16,
+                        12,
+                        257,
+                        344,
+                        381
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (50).jpg30305": {
+        "filename": "pistol (50).jpg",
+        "size": 30305,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        64,
+                        325,
+                        362,
+                        413,
+                        329,
+                        273,
+                        213,
+                        201,
+                        73
+                    ],
+                    "all_points_y": [
+                        84,
+                        8,
+                        56,
+                        209,
+                        253,
+                        138,
+                        148,
+                        116,
+                        150
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        4,
+                        247,
+                        263,
+                        248,
+                        303,
+                        237,
+                        168,
+                        79,
+                        81,
+                        7
+                    ],
+                    "all_points_y": [
+                        226,
+                        150,
+                        208,
+                        234,
+                        334,
+                        408,
+                        316,
+                        344,
+                        299,
+                        312
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (51).jpg28279": {
+        "filename": "pistol (51).jpg",
+        "size": 28279,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        6,
+                        176,
+                        223,
+                        227,
+                        365,
+                        409,
+                        397,
+                        285,
+                        256,
+                        184,
+                        108,
+                        5
+                    ],
+                    "all_points_y": [
+                        258,
+                        23,
+                        27,
+                        38,
+                        32,
+                        75,
+                        148,
+                        149,
+                        265,
+                        250,
+                        390,
+                        315
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (52).jpg48904": {
+        "filename": "pistol (52).jpg",
+        "size": 48904,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        133,
+                        51,
+                        81,
+                        11,
+                        93,
+                        163,
+                        217,
+                        262,
+                        400,
+                        403
+                    ],
+                    "all_points_y": [
+                        22,
+                        80,
+                        160,
+                        327,
+                        399,
+                        238,
+                        255,
+                        203,
+                        256,
+                        144
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (53).jpg21484": {
+        "filename": "pistol (53).jpg",
+        "size": 21484,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        132,
+                        275,
+                        309,
+                        375,
+                        393,
+                        45,
+                        8,
+                        72,
+                        65,
+                        176
+                    ],
+                    "all_points_y": [
+                        342,
+                        412,
+                        275,
+                        290,
+                        192,
+                        8,
+                        53,
+                        125,
+                        189,
+                        262
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (54).jpg14570": {
+        "filename": "pistol (54).jpg",
+        "size": 14570,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        17,
+                        347,
+                        409,
+                        363,
+                        383,
+                        273,
+                        279,
+                        221,
+                        205,
+                        21
+                    ],
+                    "all_points_y": [
+                        148,
+                        57,
+                        144,
+                        178,
+                        328,
+                        350,
+                        242,
+                        246,
+                        208,
+                        249
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (55).jpg22157": {
+        "filename": "pistol (55).jpg",
+        "size": 22157,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        7,
+                        372,
+                        403,
+                        404,
+                        373,
+                        415,
+                        398,
+                        310,
+                        270,
+                        176,
+                        159,
+                        5
+                    ],
+                    "all_points_y": [
+                        14,
+                        10,
+                        36,
+                        129,
+                        165,
+                        396,
+                        405,
+                        406,
+                        230,
+                        218,
+                        146,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (56).jpg21154": {
+        "filename": "pistol (56).jpg",
+        "size": 21154,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        2,
+                        258,
+                        342,
+                        323,
+                        413,
+                        337,
+                        253,
+                        166,
+                        131,
+                        53
+                    ],
+                    "all_points_y": [
+                        246,
+                        2,
+                        76,
+                        138,
+                        320,
+                        414,
+                        287,
+                        370,
+                        308,
+                        390
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (57).jpg26312": {
+        "filename": "pistol (57).jpg",
+        "size": 26312,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        339,
+                        230,
+                        192,
+                        147,
+                        191,
+                        213,
+                        239,
+                        245,
+                        277,
+                        283,
+                        337
+                    ],
+                    "all_points_y": [
+                        49,
+                        73,
+                        124,
+                        336,
+                        345,
+                        246,
+                        243,
+                        214,
+                        202,
+                        132,
+                        120
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (58).jpg20782": {
+        "filename": "pistol (58).jpg",
+        "size": 20782,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        28,
+                        131,
+                        131,
+                        43,
+                        43,
+                        21,
+                        21
+                    ],
+                    "all_points_y": [
+                        131,
+                        146,
+                        191,
+                        176,
+                        164,
+                        158,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (59).jpg21487": {
+        "filename": "pistol (59).jpg",
+        "size": 21487,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        58,
+                        154,
+                        150,
+                        79,
+                        79,
+                        53
+                    ],
+                    "all_points_y": [
+                        148,
+                        156,
+                        192,
+                        183,
+                        172,
+                        171
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (60).jpg21201": {
+        "filename": "pistol (60).jpg",
+        "size": 21201,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        39,
+                        119,
+                        117,
+                        58,
+                        57,
+                        37
+                    ],
+                    "all_points_y": [
+                        151,
+                        162,
+                        189,
+                        180,
+                        171,
+                        170
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (61).jpg14343": {
+        "filename": "pistol (61).jpg",
+        "size": 14343,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        5,
+                        290,
+                        329,
+                        407,
+                        411,
+                        371,
+                        409,
+                        357,
+                        13,
+                        0
+                    ],
+                    "all_points_y": [
+                        218,
+                        220,
+                        407,
+                        399,
+                        334,
+                        156,
+                        119,
+                        6,
+                        10,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (62).jpg35109": {
+        "filename": "pistol (62).jpg",
+        "size": 35109,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        118,
+                        217,
+                        253,
+                        244,
+                        301,
+                        267,
+                        229,
+                        202,
+                        185,
+                        139
+                    ],
+                    "all_points_y": [
+                        153,
+                        292,
+                        270,
+                        252,
+                        213,
+                        170,
+                        192,
+                        162,
+                        177,
+                        128
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (63).jpg39876": {
+        "filename": "pistol (63).jpg",
+        "size": 39876,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        10,
+                        10,
+                        131,
+                        145,
+                        219,
+                        274,
+                        413,
+                        335,
+                        381,
+                        360,
+                        320,
+                        345,
+                        335,
+                        304,
+                        289
+                    ],
+                    "all_points_y": [
+                        110,
+                        184,
+                        170,
+                        220,
+                        213,
+                        398,
+                        357,
+                        126,
+                        108,
+                        67,
+                        60,
+                        24,
+                        11,
+                        19,
+                        3
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (64).jpg16356": {
+        "filename": "pistol (64).jpg",
+        "size": 16356,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        4,
+                        7,
+                        151,
+                        175,
+                        267,
+                        297,
+                        393,
+                        415,
+                        411,
+                        374,
+                        415,
+                        375
+                    ],
+                    "all_points_y": [
+                        70,
+                        157,
+                        176,
+                        236,
+                        252,
+                        389,
+                        388,
+                        362,
+                        300,
+                        182,
+                        161,
+                        60
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (65).jpg17831": {
+        "filename": "pistol (65).jpg",
+        "size": 17831,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        295,
+                        403,
+                        365,
+                        415,
+                        350,
+                        16,
+                        17,
+                        176,
+                        176,
+                        257
+                    ],
+                    "all_points_y": [
+                        403,
+                        398,
+                        172,
+                        130,
+                        13,
+                        5,
+                        117,
+                        148,
+                        201,
+                        221
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (66).jpg13109": {
+        "filename": "pistol (66).jpg",
+        "size": 13109,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        21,
+                        412,
+                        414,
+                        275,
+                        265,
+                        149,
+                        117,
+                        1
+                    ],
+                    "all_points_y": [
+                        22,
+                        12,
+                        123,
+                        148,
+                        216,
+                        248,
+                        412,
+                        396
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (67).jpg40140": {
+        "filename": "pistol (67).jpg",
+        "size": 40140,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        65,
+                        246,
+                        216,
+                        186,
+                        159,
+                        81,
+                        106,
+                        43,
+                        68,
+                        25
+                    ],
+                    "all_points_y": [
+                        94,
+                        256,
+                        306,
+                        298,
+                        400,
+                        381,
+                        280,
+                        228,
+                        193,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        157,
+                        202,
+                        401,
+                        376,
+                        339,
+                        307,
+                        228,
+                        255,
+                        193,
+                        215
+                    ],
+                    "all_points_y": [
+                        67,
+                        22,
+                        205,
+                        250,
+                        249,
+                        382,
+                        326,
+                        225,
+                        168,
+                        136
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (68).jpg13931": {
+        "filename": "pistol (68).jpg",
+        "size": 13931,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        333,
+                        415,
+                        411,
+                        383,
+                        380,
+                        331
+                    ],
+                    "all_points_y": [
+                        41,
+                        39,
+                        52,
+                        52,
+                        62,
+                        55
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (69).jpg17763": {
+        "filename": "pistol (69).jpg",
+        "size": 17763,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        11,
+                        408,
+                        411,
+                        317,
+                        288,
+                        165,
+                        130,
+                        7,
+                        13,
+                        33,
+                        5
+                    ],
+                    "all_points_y": [
+                        6,
+                        20,
+                        138,
+                        152,
+                        234,
+                        226,
+                        416,
+                        400,
+                        260,
+                        130,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (70).jpg12620": {
+        "filename": "pistol (70).jpg",
+        "size": 12620,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        29,
+                        401,
+                        401,
+                        202,
+                        186,
+                        111,
+                        92,
+                        19,
+                        42,
+                        18
+                    ],
+                    "all_points_y": [
+                        50,
+                        52,
+                        152,
+                        160,
+                        240,
+                        234,
+                        397,
+                        360,
+                        154,
+                        129
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (71).jpg17140": {
+        "filename": "pistol (71).jpg",
+        "size": 17140,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        19,
+                        409,
+                        395,
+                        361,
+                        398,
+                        312,
+                        249,
+                        163,
+                        150,
+                        0
+                    ],
+                    "all_points_y": [
+                        15,
+                        21,
+                        140,
+                        161,
+                        353,
+                        407,
+                        230,
+                        219,
+                        109,
+                        101
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (72).jpg10557": {
+        "filename": "pistol (72).jpg",
+        "size": 10557,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        135,
+                        97,
+                        103,
+                        161,
+                        233,
+                        325,
+                        317
+                    ],
+                    "all_points_y": [
+                        135,
+                        188,
+                        356,
+                        358,
+                        218,
+                        209,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (73).jpg20153": {
+        "filename": "pistol (73).jpg",
+        "size": 20153,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        34,
+                        330,
+                        364,
+                        179,
+                        168,
+                        27
+                    ],
+                    "all_points_y": [
+                        26,
+                        7,
+                        86,
+                        222,
+                        138,
+                        140
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (74).jpg10523": {
+        "filename": "pistol (74).jpg",
+        "size": 10523,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        238,
+                        369,
+                        367,
+                        317,
+                        311,
+                        282,
+                        266,
+                        225,
+                        223
+                    ],
+                    "all_points_y": [
+                        111,
+                        112,
+                        157,
+                        164,
+                        196,
+                        198,
+                        266,
+                        258,
+                        142
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (75).jpg9944": {
+        "filename": "pistol (75).jpg",
+        "size": 9944,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        54,
+                        269,
+                        286,
+                        283,
+                        225,
+                        204,
+                        153,
+                        141,
+                        61
+                    ],
+                    "all_points_y": [
+                        135,
+                        137,
+                        205,
+                        346,
+                        340,
+                        254,
+                        253,
+                        209,
+                        199
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (90).jpg18495": {
+        "filename": "pistol (90).jpg",
+        "size": 18495,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        7,
+                        98,
+                        108,
+                        130,
+                        146,
+                        193,
+                        205,
+                        410,
+                        409,
+                        392,
+                        382,
+                        366,
+                        362,
+                        135,
+                        126,
+                        110,
+                        98,
+                        114,
+                        45
+                    ],
+                    "all_points_y": [
+                        385,
+                        386,
+                        263,
+                        262,
+                        305,
+                        294,
+                        225,
+                        154,
+                        50,
+                        57,
+                        42,
+                        42,
+                        55,
+                        50,
+                        64,
+                        51,
+                        60,
+                        134,
+                        173
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (91).jpg16861": {
+        "filename": "pistol (91).jpg",
+        "size": 16861,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        0,
+                        116,
+                        101,
+                        119,
+                        136,
+                        204,
+                        209,
+                        248,
+                        253,
+                        413,
+                        414,
+                        399,
+                        390,
+                        361,
+                        361,
+                        129,
+                        119,
+                        99,
+                        83,
+                        99,
+                        38
+                    ],
+                    "all_points_y": [
+                        410,
+                        408,
+                        272,
+                        252,
+                        304,
+                        278,
+                        218,
+                        179,
+                        119,
+                        118,
+                        11,
+                        11,
+                        0,
+                        2,
+                        15,
+                        12,
+                        31,
+                        6,
+                        14,
+                        126,
+                        202
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (92).jpg18662": {
+        "filename": "pistol (92).jpg",
+        "size": 18662,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        230,
+                        364,
+                        327,
+                        353,
+                        353,
+                        333,
+                        319,
+                        99,
+                        79,
+                        56,
+                        57,
+                        130,
+                        130,
+                        224
+                    ],
+                    "all_points_y": [
+                        410,
+                        402,
+                        202,
+                        147,
+                        21,
+                        22,
+                        14,
+                        24,
+                        11,
+                        14,
+                        178,
+                        179,
+                        264,
+                        280
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (93).jpg24296": {
+        "filename": "pistol (93).jpg",
+        "size": 24296,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        261,
+                        402,
+                        342,
+                        403,
+                        347,
+                        9,
+                        3,
+                        137,
+                        183,
+                        217
+                    ],
+                    "all_points_y": [
+                        406,
+                        412,
+                        157,
+                        150,
+                        6,
+                        5,
+                        137,
+                        150,
+                        231,
+                        232
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (94).jpg25771": {
+        "filename": "pistol (94).jpg",
+        "size": 25771,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        102,
+                        112,
+                        103,
+                        30,
+                        32,
+                        50,
+                        59
+                    ],
+                    "all_points_y": [
+                        227,
+                        169,
+                        151,
+                        155,
+                        188,
+                        187,
+                        222
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (95).jpg19372": {
+        "filename": "pistol (95).jpg",
+        "size": 19372,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        287,
+                        413,
+                        372,
+                        399,
+                        338,
+                        13,
+                        5,
+                        102,
+                        133,
+                        235
+                    ],
+                    "all_points_y": [
+                        408,
+                        395,
+                        170,
+                        94,
+                        13,
+                        10,
+                        104,
+                        132,
+                        204,
+                        228
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (96).jpg21638": {
+        "filename": "pistol (96).jpg",
+        "size": 21638,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        294,
+                        196,
+                        178,
+                        104,
+                        90,
+                        18,
+                        13,
+                        241,
+                        255,
+                        267,
+                        267,
+                        298,
+                        283
+                    ],
+                    "all_points_y": [
+                        398,
+                        414,
+                        326,
+                        328,
+                        259,
+                        256,
+                        159,
+                        161,
+                        181,
+                        181,
+                        218,
+                        242,
+                        268
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        321,
+                        411,
+                        383,
+                        414,
+                        382,
+                        114,
+                        126,
+                        220,
+                        236,
+                        294
+                    ],
+                    "all_points_y": [
+                        290,
+                        282,
+                        118,
+                        95,
+                        7,
+                        12,
+                        104,
+                        106,
+                        154,
+                        159
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (97).jpg31654": {
+        "filename": "pistol (97).jpg",
+        "size": 31654,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        108,
+                        82,
+                        77,
+                        61,
+                        54,
+                        30,
+                        28,
+                        94,
+                        94,
+                        99
+                    ],
+                    "all_points_y": [
+                        177,
+                        181,
+                        154,
+                        156,
+                        140,
+                        144,
+                        122,
+                        112,
+                        122,
+                        118
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (98).jpg19987": {
+        "filename": "pistol (98).jpg",
+        "size": 19987,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        5,
+                        112,
+                        138,
+                        165,
+                        184,
+                        282,
+                        311,
+                        411,
+                        410,
+                        139,
+                        136,
+                        87,
+                        93,
+                        34
+                    ],
+                    "all_points_y": [
+                        387,
+                        413,
+                        250,
+                        247,
+                        285,
+                        266,
+                        142,
+                        139,
+                        18,
+                        29,
+                        54,
+                        58,
+                        101,
+                        214
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (99).jpg41002": {
+        "filename": "pistol (99).jpg",
+        "size": 41002,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        202,
+                        282,
+                        261,
+                        282,
+                        262,
+                        28,
+                        19,
+                        111,
+                        116,
+                        175
+                    ],
+                    "all_points_y": [
+                        402,
+                        400,
+                        255,
+                        234,
+                        168,
+                        157,
+                        225,
+                        241,
+                        287,
+                        301
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        302,
+                        381,
+                        346,
+                        374,
+                        348,
+                        117,
+                        119,
+                        206,
+                        211,
+                        273
+                    ],
+                    "all_points_y": [
+                        258,
+                        259,
+                        118,
+                        98,
+                        37,
+                        22,
+                        90,
+                        102,
+                        151,
+                        160
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (100).jpg19308": {
+        "filename": "pistol (100).jpg",
+        "size": 19308,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        405,
+                        306,
+                        258,
+                        174,
+                        142,
+                        48,
+                        6,
+                        298,
+                        315,
+                        354,
+                        317
+                    ],
+                    "all_points_y": [
+                        265,
+                        313,
+                        221,
+                        252,
+                        208,
+                        245,
+                        160,
+                        52,
+                        89,
+                        108,
+                        133
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (101).jpg18393": {
+        "filename": "pistol (101).jpg",
+        "size": 18393,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        287,
+                        407,
+                        367,
+                        408,
+                        366,
+                        22,
+                        15,
+                        178,
+                        190,
+                        258
+                    ],
+                    "all_points_y": [
+                        406,
+                        386,
+                        169,
+                        122,
+                        14,
+                        26,
+                        148,
+                        160,
+                        220,
+                        228
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (102).jpg20086": {
+        "filename": "pistol (102).jpg",
+        "size": 20086,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        153,
+                        6,
+                        43,
+                        2,
+                        36,
+                        406,
+                        406,
+                        282,
+                        264,
+                        170
+                    ],
+                    "all_points_y": [
+                        410,
+                        410,
+                        168,
+                        131,
+                        15,
+                        11,
+                        131,
+                        146,
+                        234,
+                        239
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (103).jpg25732": {
+        "filename": "pistol (103).jpg",
+        "size": 25732,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        277,
+                        415,
+                        397,
+                        7,
+                        6,
+                        102,
+                        118,
+                        243
+                    ],
+                    "all_points_y": [
+                        412,
+                        409,
+                        3,
+                        6,
+                        152,
+                        160,
+                        253,
+                        265
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (104).jpg17836": {
+        "filename": "pistol (104).jpg",
+        "size": 17836,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        36,
+                        129,
+                        264,
+                        388,
+                        396,
+                        237,
+                        146,
+                        127,
+                        5
+                    ],
+                    "all_points_y": [
+                        222,
+                        204,
+                        394,
+                        375,
+                        310,
+                        16,
+                        22,
+                        46,
+                        67
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (105).jpg22627": {
+        "filename": "pistol (105).jpg",
+        "size": 22627,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        378,
+                        310,
+                        237,
+                        169,
+                        147,
+                        65,
+                        26,
+                        242,
+                        269,
+                        294,
+                        286,
+                        368
+                    ],
+                    "all_points_y": [
+                        285,
+                        350,
+                        267,
+                        327,
+                        282,
+                        358,
+                        270,
+                        26,
+                        39,
+                        108,
+                        127,
+                        254
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (106).jpg24725": {
+        "filename": "pistol (106).jpg",
+        "size": 24725,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        373,
+                        309,
+                        258,
+                        195,
+                        163,
+                        84,
+                        25,
+                        290,
+                        341,
+                        325
+                    ],
+                    "all_points_y": [
+                        286,
+                        366,
+                        283,
+                        346,
+                        306,
+                        357,
+                        197,
+                        4,
+                        93,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (107).jpg41817": {
+        "filename": "pistol (107).jpg",
+        "size": 41817,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        34,
+                        176,
+                        174,
+                        268,
+                        263,
+                        398,
+                        397,
+                        56,
+                        32,
+                        48
+                    ],
+                    "all_points_y": [
+                        392,
+                        388,
+                        247,
+                        222,
+                        150,
+                        149,
+                        29,
+                        42,
+                        146,
+                        182
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (108).jpg13811": {
+        "filename": "pistol (108).jpg",
+        "size": 13811,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        337,
+                        412,
+                        368,
+                        6,
+                        11,
+                        219,
+                        256,
+                        320
+                    ],
+                    "all_points_y": [
+                        343,
+                        334,
+                        107,
+                        91,
+                        167,
+                        181,
+                        261,
+                        256
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (109).jpg14420": {
+        "filename": "pistol (109).jpg",
+        "size": 14420,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        134,
+                        92,
+                        82,
+                        54,
+                        54,
+                        19,
+                        16,
+                        124,
+                        128,
+                        122
+                    ],
+                    "all_points_y": [
+                        285,
+                        290,
+                        240,
+                        240,
+                        218,
+                        217,
+                        154,
+                        146,
+                        179,
+                        190
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (110).jpg42334": {
+        "filename": "pistol (110).jpg",
+        "size": 42334,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        414,
+                        375,
+                        266,
+                        221,
+                        177,
+                        55,
+                        1,
+                        218,
+                        286,
+                        322
+                    ],
+                    "all_points_y": [
+                        197,
+                        318,
+                        226,
+                        274,
+                        248,
+                        365,
+                        276,
+                        0,
+                        26,
+                        101
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (111).jpg30746": {
+        "filename": "pistol (111).jpg",
+        "size": 30746,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        412,
+                        302,
+                        254,
+                        182,
+                        163,
+                        29,
+                        19,
+                        302,
+                        324,
+                        345,
+                        375,
+                        356
+                    ],
+                    "all_points_y": [
+                        315,
+                        381,
+                        230,
+                        242,
+                        185,
+                        226,
+                        126,
+                        7,
+                        58,
+                        50,
+                        98,
+                        137
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (112).jpg12509": {
+        "filename": "pistol (112).jpg",
+        "size": 12509,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        323,
+                        227,
+                        220,
+                        160,
+                        147,
+                        57,
+                        47,
+                        322,
+                        306,
+                        326,
+                        300
+                    ],
+                    "all_points_y": [
+                        365,
+                        365,
+                        247,
+                        245,
+                        186,
+                        174,
+                        84,
+                        102,
+                        158,
+                        185,
+                        204
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (113).jpg10311": {
+        "filename": "pistol (113).jpg",
+        "size": 10311,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        106,
+                        201,
+                        210,
+                        285,
+                        301,
+                        378,
+                        382,
+                        118,
+                        114,
+                        98,
+                        112
+                    ],
+                    "all_points_y": [
+                        340,
+                        343,
+                        220,
+                        205,
+                        146,
+                        143,
+                        44,
+                        46,
+                        91,
+                        101,
+                        129
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (114).jpg12032": {
+        "filename": "pistol (114).jpg",
+        "size": 12032,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        264,
+                        380,
+                        346,
+                        407,
+                        337,
+                        35,
+                        52,
+                        183,
+                        190,
+                        250
+                    ],
+                    "all_points_y": [
+                        370,
+                        364,
+                        205,
+                        188,
+                        88,
+                        90,
+                        174,
+                        186,
+                        248,
+                        248
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (115).jpg21935": {
+        "filename": "pistol (115).jpg",
+        "size": 21935,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        2,
+                        33,
+                        129,
+                        204,
+                        224,
+                        322,
+                        364,
+                        134,
+                        94,
+                        90,
+                        2
+                    ],
+                    "all_points_y": [
+                        165,
+                        189,
+                        153,
+                        217,
+                        182,
+                        254,
+                        173,
+                        2,
+                        12,
+                        53,
+                        104
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (116).jpg7735": {
+        "filename": "pistol (116).jpg",
+        "size": 7735,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        334,
+                        262,
+                        244,
+                        202,
+                        188,
+                        80,
+                        68,
+                        292,
+                        312,
+                        309,
+                        320,
+                        310
+                    ],
+                    "all_points_y": [
+                        318,
+                        345,
+                        231,
+                        234,
+                        186,
+                        204,
+                        98,
+                        62,
+                        86,
+                        112,
+                        150,
+                        172
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (117).jpg10921": {
+        "filename": "pistol (117).jpg",
+        "size": 10921,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        128,
+                        218,
+                        195,
+                        261,
+                        293,
+                        362,
+                        331,
+                        142,
+                        137,
+                        116,
+                        122
+                    ],
+                    "all_points_y": [
+                        399,
+                        390,
+                        259,
+                        266,
+                        166,
+                        156,
+                        50,
+                        85,
+                        150,
+                        157,
+                        390
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (118).jpg13649": {
+        "filename": "pistol (118).jpg",
+        "size": 13649,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        279,
+                        394,
+                        364,
+                        412,
+                        370,
+                        4,
+                        22,
+                        207,
+                        219,
+                        275
+                    ],
+                    "all_points_y": [
+                        355,
+                        325,
+                        184,
+                        158,
+                        51,
+                        146,
+                        255,
+                        216,
+                        262,
+                        254
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (119).jpg16976": {
+        "filename": "pistol (119).jpg",
+        "size": 16976,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        306,
+                        415,
+                        404,
+                        296,
+                        15,
+                        12,
+                        118,
+                        128,
+                        168,
+                        178,
+                        289
+                    ],
+                    "all_points_y": [
+                        383,
+                        360,
+                        302,
+                        98,
+                        94,
+                        181,
+                        185,
+                        231,
+                        230,
+                        282,
+                        272
+                    ]
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (120).jpg14807": {
+        "filename": "pistol (120).jpg",
+        "size": 14807,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        314,
+                        404,
+                        335,
+                        290,
+                        28,
+                        36,
+                        150,
+                        153,
+                        178,
+                        195,
+                        259,
+                        274
+                    ],
+                    "all_points_y": [
+                        374,
+                        366,
+                        174,
+                        72,
+                        74,
+                        166,
+                        169,
+                        224,
+                        229,
+                        290,
+                        293,
+                        243
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (121).jpg22189": {
+        "filename": "pistol (121).jpg",
+        "size": 22189,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        408,
+                        378,
+                        285,
+                        306,
+                        228,
+                        162,
+                        70,
+                        6,
+                        204,
+                        410
+                    ],
+                    "all_points_y": [
+                        136,
+                        231,
+                        171,
+                        224,
+                        275,
+                        251,
+                        393,
+                        335,
+                        28,
+                        112
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (122).jpg33821": {
+        "filename": "pistol (122).jpg",
+        "size": 33821,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        207,
+                        403,
+                        378,
+                        386,
+                        1,
+                        0,
+                        100,
+                        89,
+                        199
+                    ],
+                    "all_points_y": [
+                        375,
+                        372,
+                        139,
+                        43,
+                        24,
+                        142,
+                        149,
+                        214,
+                        221
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (123).jpg11409": {
+        "filename": "pistol (123).jpg",
+        "size": 11409,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        344,
+                        414,
+                        403,
+                        379,
+                        367,
+                        1,
+                        11,
+                        226,
+                        229,
+                        254,
+                        262,
+                        318
+                    ],
+                    "all_points_y": [
+                        334,
+                        323,
+                        240,
+                        162,
+                        78,
+                        83,
+                        164,
+                        162,
+                        218,
+                        210,
+                        253,
+                        256
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (124).jpg20778": {
+        "filename": "pistol (124).jpg",
+        "size": 20778,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        402,
+                        312,
+                        234,
+                        156,
+                        133,
+                        20,
+                        0,
+                        226,
+                        258,
+                        287,
+                        273
+                    ],
+                    "all_points_y": [
+                        253,
+                        351,
+                        245,
+                        286,
+                        252,
+                        333,
+                        238,
+                        67,
+                        96,
+                        98,
+                        138
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (125).jpg46553": {
+        "filename": "pistol (125).jpg",
+        "size": 46553,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        362,
+                        415,
+                        337,
+                        347,
+                        261,
+                        1,
+                        42,
+                        190,
+                        220,
+                        279
+                    ],
+                    "all_points_y": [
+                        401,
+                        292,
+                        124,
+                        50,
+                        5,
+                        319,
+                        406,
+                        279,
+                        333,
+                        284
+                    ]
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (126).jpg34063": {
+        "filename": "pistol (126).jpg",
+        "size": 34063,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        319,
+                        415,
+                        337,
+                        362,
+                        299,
+                        1,
+                        20,
+                        145,
+                        171,
+                        246
+                    ],
+                    "all_points_y": [
+                        411,
+                        328,
+                        141,
+                        65,
+                        4,
+                        215,
+                        332,
+                        260,
+                        309,
+                        271
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (127).jpg17843": {
+        "filename": "pistol (127).jpg",
+        "size": 17843,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        45,
+                        145,
+                        163,
+                        396,
+                        382,
+                        327,
+                        305,
+                        31,
+                        33,
+                        56
+                    ],
+                    "all_points_y": [
+                        412,
+                        412,
+                        302,
+                        249,
+                        143,
+                        151,
+                        33,
+                        81,
+                        227,
+                        242
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (128).jpg19788": {
+        "filename": "pistol (128).jpg",
+        "size": 19788,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        297,
+                        415,
+                        389,
+                        414,
+                        390,
+                        1,
+                        5,
+                        151,
+                        169,
+                        268
+                    ],
+                    "all_points_y": [
+                        410,
+                        409,
+                        156,
+                        129,
+                        7,
+                        7,
+                        138,
+                        151,
+                        242,
+                        245
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (129).jpg18615": {
+        "filename": "pistol (129).jpg",
+        "size": 18615,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        287,
+                        415,
+                        367,
+                        413,
+                        379,
+                        6,
+                        9,
+                        126,
+                        140,
+                        253
+                    ],
+                    "all_points_y": [
+                        379,
+                        369,
+                        144,
+                        111,
+                        17,
+                        22,
+                        141,
+                        147,
+                        227,
+                        230
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (130).jpg20464": {
+        "filename": "pistol (130).jpg",
+        "size": 20464,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        413,
+                        369,
+                        264,
+                        192,
+                        159,
+                        79,
+                        4,
+                        231,
+                        289,
+                        297
+                    ],
+                    "all_points_y": [
+                        141,
+                        284,
+                        236,
+                        329,
+                        291,
+                        383,
+                        316,
+                        3,
+                        45,
+                        85
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (131).jpg37666": {
+        "filename": "pistol (131).jpg",
+        "size": 37666,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        302,
+                        408,
+                        340,
+                        313,
+                        27,
+                        57,
+                        141,
+                        151,
+                        235
+                    ],
+                    "all_points_y": [
+                        309,
+                        239,
+                        153,
+                        94,
+                        151,
+                        239,
+                        223,
+                        246,
+                        241
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (132).jpg11932": {
+        "filename": "pistol (132).jpg",
+        "size": 11932,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        265,
+                        391,
+                        365,
+                        396,
+                        383,
+                        20,
+                        25,
+                        105,
+                        120,
+                        235
+                    ],
+                    "all_points_y": [
+                        350,
+                        339,
+                        172,
+                        155,
+                        64,
+                        71,
+                        171,
+                        175,
+                        235,
+                        239
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (133).jpg13391": {
+        "filename": "pistol (133).jpg",
+        "size": 13391,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        269,
+                        388,
+                        353,
+                        383,
+                        357,
+                        31,
+                        37,
+                        137,
+                        159,
+                        249
+                    ],
+                    "all_points_y": [
+                        342,
+                        327,
+                        187,
+                        157,
+                        72,
+                        75,
+                        162,
+                        164,
+                        219,
+                        231
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (134).jpg14608": {
+        "filename": "pistol (134).jpg",
+        "size": 14608,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        297,
+                        405,
+                        357,
+                        352,
+                        11,
+                        18,
+                        153,
+                        159,
+                        193,
+                        207,
+                        289
+                    ],
+                    "all_points_y": [
+                        370,
+                        364,
+                        161,
+                        46,
+                        47,
+                        143,
+                        150,
+                        209,
+                        209,
+                        272,
+                        259
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (135).jpg13765": {
+        "filename": "pistol (135).jpg",
+        "size": 13765,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        252,
+                        366,
+                        346,
+                        373,
+                        354,
+                        53,
+                        55,
+                        118,
+                        132,
+                        240
+                    ],
+                    "all_points_y": [
+                        396,
+                        393,
+                        167,
+                        136,
+                        33,
+                        39,
+                        156,
+                        164,
+                        245,
+                        249
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (136).jpg17075": {
+        "filename": "pistol (136).jpg",
+        "size": 17075,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        25,
+                        61,
+                        113,
+                        209,
+                        269,
+                        302,
+                        146,
+                        73,
+                        57,
+                        66
+                    ],
+                    "all_points_y": [
+                        277,
+                        407,
+                        310,
+                        410,
+                        377,
+                        257,
+                        15,
+                        27,
+                        89,
+                        146
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (137).jpg37918": {
+        "filename": "pistol (137).jpg",
+        "size": 37918,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        321,
+                        415,
+                        271,
+                        299,
+                        180,
+                        1,
+                        1,
+                        204
+                    ],
+                    "all_points_y": [
+                        415,
+                        312,
+                        105,
+                        56,
+                        1,
+                        156,
+                        401,
+                        274
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (138).jpg30349": {
+        "filename": "pistol (138).jpg",
+        "size": 30349,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        1,
+                        71,
+                        171,
+                        261,
+                        286,
+                        390,
+                        415,
+                        169,
+                        73,
+                        94
+                    ],
+                    "all_points_y": [
+                        265,
+                        389,
+                        273,
+                        391,
+                        340,
+                        407,
+                        294,
+                        7,
+                        33,
+                        133
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (139).jpg14208": {
+        "filename": "pistol (139).jpg",
+        "size": 14208,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        196,
+                        265,
+                        260,
+                        359,
+                        353,
+                        91,
+                        79,
+                        127
+                    ],
+                    "all_points_y": [
+                        218,
+                        219,
+                        158,
+                        151,
+                        53,
+                        44,
+                        126,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (140).jpg23655": {
+        "filename": "pistol (140).jpg",
+        "size": 23655,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        273,
+                        392,
+                        347,
+                        394,
+                        342,
+                        26,
+                        43,
+                        161,
+                        177,
+                        259
+                    ],
+                    "all_points_y": [
+                        404,
+                        403,
+                        169,
+                        137,
+                        7,
+                        4,
+                        145,
+                        152,
+                        244,
+                        247
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (141).jpg21205": {
+        "filename": "pistol (141).jpg",
+        "size": 21205,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        44,
+                        169,
+                        169,
+                        261,
+                        264,
+                        410,
+                        410,
+                        54,
+                        1,
+                        43
+                    ],
+                    "all_points_y": [
+                        404,
+                        406,
+                        225,
+                        213,
+                        136,
+                        115,
+                        7,
+                        12,
+                        101,
+                        163
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (142).jpg21405": {
+        "filename": "pistol (142).jpg",
+        "size": 21405,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        77,
+                        199,
+                        199,
+                        295,
+                        297,
+                        362,
+                        352,
+                        105,
+                        48,
+                        84
+                    ],
+                    "all_points_y": [
+                        407,
+                        409,
+                        313,
+                        288,
+                        212,
+                        197,
+                        116,
+                        115,
+                        209,
+                        240
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (143).jpg24014": {
+        "filename": "pistol (143).jpg",
+        "size": 24014,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        17,
+                        139,
+                        170,
+                        251,
+                        247,
+                        351,
+                        345,
+                        57,
+                        53,
+                        73
+                    ],
+                    "all_points_y": [
+                        353,
+                        351,
+                        207,
+                        201,
+                        148,
+                        132,
+                        47,
+                        57,
+                        129,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (144).jpg25508": {
+        "filename": "pistol (144).jpg",
+        "size": 25508,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        199,
+                        297,
+                        303,
+                        375,
+                        382,
+                        413,
+                        409,
+                        202,
+                        196,
+                        219
+                    ],
+                    "all_points_y": [
+                        313,
+                        307,
+                        215,
+                        212,
+                        145,
+                        144,
+                        71,
+                        73,
+                        171,
+                        181
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (145).jpg26565": {
+        "filename": "pistol (145).jpg",
+        "size": 26565,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        415,
+                        345,
+                        265,
+                        220,
+                        207,
+                        188,
+                        372,
+                        413,
+                        365,
+                        392,
+                        364
+                    ],
+                    "all_points_y": [
+                        312,
+                        412,
+                        278,
+                        291,
+                        249,
+                        207,
+                        9,
+                        59,
+                        131,
+                        165,
+                        229
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        10,
+                        86,
+                        182,
+                        184,
+                        221,
+                        28,
+                        0,
+                        30,
+                        23,
+                        64
+                    ],
+                    "all_points_y": [
+                        295,
+                        413,
+                        274,
+                        190,
+                        161,
+                        19,
+                        57,
+                        113,
+                        200,
+                        242
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (146).jpg17541": {
+        "filename": "pistol (146).jpg",
+        "size": 17541,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        317,
+                        409,
+                        296,
+                        313,
+                        276,
+                        14,
+                        38,
+                        145,
+                        162,
+                        243
+                    ],
+                    "all_points_y": [
+                        329,
+                        250,
+                        97,
+                        68,
+                        7,
+                        196,
+                        283,
+                        231,
+                        281,
+                        229
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (147).jpg17103": {
+        "filename": "pistol (147).jpg",
+        "size": 17103,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        244,
+                        361,
+                        303,
+                        329,
+                        323,
+                        57,
+                        58,
+                        140,
+                        138,
+                        216
+                    ],
+                    "all_points_y": [
+                        331,
+                        322,
+                        153,
+                        137,
+                        71,
+                        62,
+                        151,
+                        162,
+                        213,
+                        222
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (148).jpg11585": {
+        "filename": "pistol (148).jpg",
+        "size": 11585,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        235,
+                        319,
+                        298,
+                        323,
+                        316,
+                        68,
+                        73,
+                        135,
+                        137,
+                        215
+                    ],
+                    "all_points_y": [
+                        403,
+                        379,
+                        171,
+                        147,
+                        44,
+                        35,
+                        187,
+                        193,
+                        283,
+                        284
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (149).jpg31952": {
+        "filename": "pistol (149).jpg",
+        "size": 31952,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        355,
+                        415,
+                        319,
+                        341,
+                        250,
+                        21,
+                        56,
+                        185,
+                        211,
+                        264
+                    ],
+                    "all_points_y": [
+                        346,
+                        255,
+                        100,
+                        42,
+                        7,
+                        269,
+                        372,
+                        263,
+                        292,
+                        241
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (150).jpg19755": {
+        "filename": "pistol (150).jpg",
+        "size": 19755,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        129,
+                        240,
+                        253,
+                        292,
+                        287,
+                        39,
+                        12,
+                        86,
+                        79,
+                        143
+                    ],
+                    "all_points_y": [
+                        374,
+                        413,
+                        228,
+                        223,
+                        111,
+                        12,
+                        73,
+                        132,
+                        164,
+                        241
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (151).jpg15344": {
+        "filename": "pistol (151).jpg",
+        "size": 15344,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        119,
+                        201,
+                        273,
+                        312,
+                        322,
+                        96,
+                        87,
+                        141,
+                        131,
+                        157
+                    ],
+                    "all_points_y": [
+                        321,
+                        399,
+                        182,
+                        187,
+                        78,
+                        13,
+                        95,
+                        125,
+                        173,
+                        199
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (152).jpg13729": {
+        "filename": "pistol (152).jpg",
+        "size": 13729,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        412,
+                        390,
+                        253,
+                        194,
+                        151,
+                        64,
+                        6,
+                        199,
+                        254,
+                        257
+                    ],
+                    "all_points_y": [
+                        92,
+                        265,
+                        208,
+                        285,
+                        257,
+                        381,
+                        294,
+                        51,
+                        65,
+                        81
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (153).jpg21568": {
+        "filename": "pistol (153).jpg",
+        "size": 21568,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        37,
+                        109,
+                        161,
+                        223,
+                        241,
+                        299,
+                        327,
+                        161,
+                        92,
+                        108
+                    ],
+                    "all_points_y": [
+                        220,
+                        292,
+                        217,
+                        274,
+                        233,
+                        283,
+                        207,
+                        33,
+                        49,
+                        117
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (154).jpg22292": {
+        "filename": "pistol (154).jpg",
+        "size": 22292,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        411,
+                        374,
+                        286,
+                        293,
+                        243,
+                        167,
+                        71,
+                        12,
+                        191,
+                        286
+                    ],
+                    "all_points_y": [
+                        120,
+                        221,
+                        163,
+                        208,
+                        276,
+                        247,
+                        388,
+                        340,
+                        43,
+                        60
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (155).jpg16674": {
+        "filename": "pistol (155).jpg",
+        "size": 16674,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        5,
+                        52,
+                        61,
+                        80,
+                        103,
+                        105,
+                        122,
+                        121,
+                        160,
+                        193,
+                        191,
+                        60,
+                        27
+                    ],
+                    "all_points_y": [
+                        236,
+                        250,
+                        180,
+                        192,
+                        176,
+                        159,
+                        154,
+                        129,
+                        129,
+                        119,
+                        87,
+                        76,
+                        107
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (156).jpg20683": {
+        "filename": "pistol (156).jpg",
+        "size": 20683,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        337,
+                        337,
+                        316,
+                        327,
+                        299,
+                        305,
+                        281,
+                        267,
+                        274,
+                        271
+                    ],
+                    "all_points_y": [
+                        201,
+                        156,
+                        159,
+                        135,
+                        93,
+                        31,
+                        27,
+                        147,
+                        159,
+                        175
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (157).jpg12736": {
+        "filename": "pistol (157).jpg",
+        "size": 12736,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        297,
+                        321,
+                        323,
+                        335,
+                        355,
+                        360,
+                        403,
+                        401,
+                        329,
+                        323,
+                        311,
+                        308
+                    ],
+                    "all_points_y": [
+                        197,
+                        205,
+                        189,
+                        201,
+                        181,
+                        163,
+                        164,
+                        137,
+                        133,
+                        146,
+                        143,
+                        155
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (158).jpg14392": {
+        "filename": "pistol (158).jpg",
+        "size": 14392,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        269,
+                        205,
+                        151,
+                        134,
+                        115,
+                        189,
+                        235,
+                        213,
+                        231,
+                        215
+                    ],
+                    "all_points_y": [
+                        313,
+                        369,
+                        309,
+                        310,
+                        273,
+                        180,
+                        196,
+                        231,
+                        245,
+                        273
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (159).jpg25936": {
+        "filename": "pistol (159).jpg",
+        "size": 25936,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        375,
+                        298,
+                        254,
+                        180,
+                        156,
+                        101,
+                        90,
+                        286,
+                        324,
+                        326,
+                        305
+                    ],
+                    "all_points_y": [
+                        203,
+                        253,
+                        144,
+                        189,
+                        141,
+                        189,
+                        124,
+                        4,
+                        7,
+                        45,
+                        69
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (160).jpg10526": {
+        "filename": "pistol (160).jpg",
+        "size": 10526,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        279,
+                        278,
+                        254,
+                        255,
+                        265,
+                        308,
+                        308,
+                        293,
+                        292
+                    ],
+                    "all_points_y": [
+                        171,
+                        194,
+                        191,
+                        154,
+                        133,
+                        132,
+                        157,
+                        157,
+                        172
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (161).jpg21801": {
+        "filename": "pistol (161).jpg",
+        "size": 21801,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        277,
+                        391,
+                        338,
+                        413,
+                        407,
+                        3,
+                        11,
+                        165,
+                        179,
+                        245
+                    ],
+                    "all_points_y": [
+                        409,
+                        393,
+                        157,
+                        103,
+                        7,
+                        46,
+                        151,
+                        157,
+                        214,
+                        223
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (162).jpg25787": {
+        "filename": "pistol (162).jpg",
+        "size": 25787,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        321,
+                        415,
+                        383,
+                        397,
+                        346,
+                        11,
+                        33,
+                        161,
+                        191,
+                        294
+                    ],
+                    "all_points_y": [
+                        414,
+                        414,
+                        143,
+                        68,
+                        1,
+                        113,
+                        241,
+                        207,
+                        302,
+                        281
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (163).jpg15075": {
+        "filename": "pistol (163).jpg",
+        "size": 15075,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        39,
+                        93,
+                        143,
+                        161,
+                        163,
+                        39,
+                        12,
+                        55,
+                        42,
+                        59
+                    ],
+                    "all_points_y": [
+                        306,
+                        349,
+                        281,
+                        271,
+                        258,
+                        151,
+                        181,
+                        220,
+                        243,
+                        263
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (164).jpg21298": {
+        "filename": "pistol (164).jpg",
+        "size": 21298,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        316,
+                        366,
+                        348,
+                        367,
+                        346,
+                        217,
+                        217,
+                        274,
+                        278,
+                        308
+                    ],
+                    "all_points_y": [
+                        199,
+                        191,
+                        119,
+                        105,
+                        70,
+                        73,
+                        116,
+                        117,
+                        140,
+                        143
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        197,
+                        246,
+                        206,
+                        29,
+                        34,
+                        134,
+                        162,
+                        191
+                    ],
+                    "all_points_y": [
+                        342,
+                        342,
+                        236,
+                        237,
+                        273,
+                        273,
+                        318,
+                        309
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        239,
+                        251,
+                        275,
+                        280,
+                        317,
+                        326,
+                        369,
+                        354,
+                        370,
+                        362
+                    ],
+                    "all_points_y": [
+                        233,
+                        278,
+                        278,
+                        298,
+                        296,
+                        342,
+                        341,
+                        276,
+                        266,
+                        229
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            },
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        166,
+                        203,
+                        175,
+                        51,
+                        55,
+                        106,
+                        122,
+                        153
+                    ],
+                    "all_points_y": [
+                        186,
+                        186,
+                        83,
+                        80,
+                        110,
+                        114,
+                        154,
+                        147
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "pistol (165).jpg18977": {
+        "filename": "pistol (165).jpg",
+        "size": 18977,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        17,
+                        81,
+                        84,
+                        93,
+                        103,
+                        167,
+                        171,
+                        212,
+                        208,
+                        89,
+                        65
+                    ],
+                    "all_points_y": [
+                        233,
+                        236,
+                        161,
+                        157,
+                        213,
+                        179,
+                        106,
+                        101,
+                        41,
+                        44,
+                        85
+                    ]
+                },
+                "region_attributes": {
+                    "names": "pistol"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
