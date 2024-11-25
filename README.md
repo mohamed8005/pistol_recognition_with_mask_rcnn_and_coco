@@ -17,6 +17,10 @@ Here are the screenshots of the terminal showing the training log for each epoch
 
 ![Log](./Mask_RCNN/images/Screenshot_Log_1.png) ![Log](./Mask_RCNN/images/Screenshot_Log_2.png) ![Log](./Mask_RCNN/images/Screenshot_Log_3.png)
 
+each epoch create a new trained model , up to the epoch writen on it , and works as a safe file to continue training after pausing or terminating the programe
+
+![h5Files](./Mask_RCNN/images/h5Files.jpg)
+
 
 Now, let's analyze the last training epoch in detail. Below is the final line from our training log, which captures the different types of losses after the last epoch:
 ```
