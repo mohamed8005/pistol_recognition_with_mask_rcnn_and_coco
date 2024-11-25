@@ -13,8 +13,12 @@ In this project, we set up a model to recognize pistols in images using the Mask
 This repository includes our training log, sample images, results, hyperparameters, and a detailed analysis of the model's performance.
 
 ## 1. Training Log
+Here are the screenshots of the terminal showing the training log for each epoch of the model's training process:
 
-Below is the final line from our training log, which captures the different types of losses after the last training epoch:
+![Log](./Mask_RCNN/images/Screenshot_Log_1.png) ![Log](./Mask_RCNN/images/Screenshot_Log_2.png) ![Log](./Mask_RCNN/images/Screenshot_Log_3.png)
+
+
+Now, let's analyze the last training epoch in detail. Below is the final line from our training log, which captures the different types of losses after the last epoch:
 ```
 - 2342s 23s/step - loss: 0.2161 - rpn_class_loss: 0.0024 - rpn_bbox_loss: 0.0686 - mrcnn_class_loss: 0.0136 - mrcnn_bbox_loss: 0.0310 - mrcnn_mask_loss: 0.1005 - val_loss: 0.5975 - val_rpn_class_loss: 0.0041 - val_rpn_bbox_loss: 0.2150 - val_mrcnn_class_loss: 0.0284 - val_mrcnn_bbox_loss: 0.1646 - val_mrcnn_mask_loss: 0.1854**
 ```
